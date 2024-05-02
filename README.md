@@ -22,21 +22,15 @@
 <img align="center" alt"javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank" />
 <img align="center" alt"PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank" />
 
-
 Aprimorando meus conceitos de tecnologia, tentando ser um melhor desevolvedor a cada dia.
 
 ## Projetos
--[Calculadora-javascript](https://coruscating-moxie-ed99de.netlify.app)<br/>
 
--[Doefacil-PHP](http://arteemusica.mus.br/sistema/grupo04/Doefacil/index.php)<br/>
+-[Calculadora](https://coruscating-moxie-ed99de.netlify.app)<br/>
 
--[Calculadora-javascript](https://coruscating-moxie-ed99de.netlify.app)<br/>
+-[Gerador de senha](https://coruscating-moxie-ed99de.netlify.app) <br/>
 
--[Gerador de senha-javascript](https://coruscating-moxie-ed99de.netlify.app) <br/>
-
--[Gerador de senha-javascript](https://coruscating-moxie-ed99de.netlify.app) <br/>
-
--[NAP-PHP](https://nap-project.000webhostapp.com/Views/index.php) <br/>
+-[Mini-Portifolio](https://polite-syrniki-4751d4.netlify.app) <br/>
 
 
 ### 🌐 Redes 
