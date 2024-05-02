@@ -28,7 +28,7 @@ Aprimorando meus conceitos de tecnologia, tentando ser um melhor desevolvedor a 
 
 -[Calculadora](https://coruscating-moxie-ed99de.netlify.app)<br/>
 
--[Gerador de senha](https://coruscating-moxie-ed99de.netlify.app) <br/>
+-[Gerador de senha](https://polite-pie-3ed392.netlify.app) <br/>
 
 -[Mini-Portifolio](https://polite-syrniki-4751d4.netlify.app) <br/>
 
